@@ -14,6 +14,6 @@ Este programa em Python possui duas funcionalidades principais:
 
 ## Como executar o programa?
 1. Certifique-se de ter o Python instalado na sua máquina.
-2. Execute o script `repetir_textos_operacoes.py` usando o comando:
+2. Execute o script `problemasimples.py` usando o comando:
    ```bash
-   python repetir_textos_operacoes.py
+   python problemasimples.py
